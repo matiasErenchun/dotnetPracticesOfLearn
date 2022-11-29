@@ -1,2 +1,6 @@
 
 app1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/
+
+*.dll
+
+app1/ConsoleApp1/ConsoleApp1/Migrations/
